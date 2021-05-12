@@ -9,7 +9,7 @@
 
 ## Requirements
 
-- [Docker]($URL1)
-- [Docker Compose]($URL2)
+- [Docker](https://www.docker.com)
+- [Docker Compose](https://www.docs.docker.com/compose)
 
 1. Start Service (Postgres DB) `docker-compose -d`
